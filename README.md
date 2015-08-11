@@ -1,1 +1,5 @@
-[![](https://github.com/chrishunt/chrishunt.github.com/raw/master/screens/index.png)](http://www.chrishunt.co)
+Personal website for @markstgodard
+
+Forked and props to @chrishunt
+
+[chrishunt/chrishunt.github.com](chrishunt/chrishunt.github.com)
