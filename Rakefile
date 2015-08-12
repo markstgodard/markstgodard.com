@@ -4,9 +4,3 @@ task :server do
 end
 
 task default: :server
-
-namespace :assets do
-  task :precompile do
-    puts `bundle exec jekyll build`
-  end
-end
