@@ -41,9 +41,14 @@ GEM
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
+    puma (2.12.3)
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    rack (1.6.4)
+    rack-jekyll (0.3.5)
+      jekyll
+      rack
     rake (10.3.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.4)
@@ -61,4 +66,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  puma
+  rack
+  rack-jekyll
   rake
